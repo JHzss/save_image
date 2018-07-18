@@ -1,0 +1,6 @@
+<launch>
+
+    <node name="save_image" pkg="save_image" type="save_node" output="screen">
+    </node>
+
+</launch>
